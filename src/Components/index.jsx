@@ -1,9 +1,9 @@
-import Hook from "./Hook";
+import Redux from "./Redux";
 
 const Components = function () {
   return (
     <div>
-      <Hook />
+      <Redux />
     </div>
   );
 };
